@@ -1,5 +1,9 @@
 ## Sagar Sethi
 
+Hi, Thanks for dropping by.
+I am Sagar. I am a doctoral (PhD) student at the Astronomical Observatory of Jagiellonian University. 
+I am working on the evolution of giant radio galaxies.
+
 You can use the [editor on GitHub](https://github.com/sagar-sethi/sagar-sethi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
